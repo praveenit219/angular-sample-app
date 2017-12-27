@@ -6,11 +6,11 @@ visual studio and npm and node with angular cli v1.5
 
 to show case how to use git for this project 
 
-from your bash
--> root of project
--> create similar rootname in the github as new repository
--> root > git init
-        git status
+from your bash<br>
+-> root of project<br>
+-> create similar rootname in the github as new repository<br>
+-> root > git init<br>
+        <tab>git status
         git add
         git push
           if any error or warning/fatal use the message the properly
@@ -36,13 +36,9 @@ from your bash
         git push origin master
         git status
 -> the whole steps are because of the conflicts in setting up the local repository, pushing to remote
+
+references:
 please refer below link for the simple steps in pushing your project to github and if you face similar issue what to do
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
 https://readwrite.com/2013/10/02/github-for-beginners-part-2/
 https://stackoverflow.com/questions/25237959/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-hint-its
-
-
-         
-
-
-        
